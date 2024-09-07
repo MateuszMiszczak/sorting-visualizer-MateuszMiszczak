@@ -1,4 +1,4 @@
-# Recruitment Task: Sorting Algorithm Visualization - Mateusz Miszczak [https://sorting-visualizer-mthwmiszczak.netlify.app/](https://sorting-visualizer-mthwmiszczak.netlify.app/)
+# Recruitment Task: Sorting Algorithm Visualization - Mateusz Miszczak <a href="https://sorting-visualizer-mthwmiszczak.netlify.app/" target="_blank">https://sorting-visualizer-mthwmiszczak.netlify.app/</a>
 
 Pana zadaniem jest stworzenie aplikacji React, która wizualizuje algorytm sortowania, np. QuickSort, MergeSort lub inne, według twojego wyboru.
 
